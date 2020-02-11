@@ -1,11 +1,11 @@
 # Site settings
-author: Tymetris Raino
-title: 
+author: ty raino
+title: blog
 header-img: img/home-bg.png
 email: mstymetris@yahoo.com
-copyright_name: Tymetris Raino
+copyright_name: ty raino
 description: > # this means to ignore newlines until "baseurl:"
-  
+  blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ty-raino
