@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What I struggled the most with in Procedural Ruby"
-date:       2020-03-17 06:53:26 +0000
+date:       2020-03-17 02:53:27 -0400
 permalink:  what_i_struggled_the_most_with_in_procedural_ruby
 ---
 
