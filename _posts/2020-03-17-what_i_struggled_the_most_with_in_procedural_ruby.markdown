@@ -8,8 +8,7 @@ permalink:  what_i_struggled_the_most_with_in_procedural_ruby
 
 The one thing I struggled the most with in Procedural Ruby was While Loops and Until Loops. While learning a little on this topic in Javascript, loops has always been a method that I couldn't quite grasp. With the help of my cohort lead, I understand a little on how While and Until loops operate. My current understanding of a While loop is that the loop will keep looping until it's false, meanwhile an Until loop is the exact opposite logic. It will run until it's true. I've also made an document breaking down the two loops. 
 
-*
-```i = 0
+*```i = 0
 while i < 5
 puts "hello"
 i += 1
