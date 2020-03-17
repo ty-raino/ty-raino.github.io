@@ -14,7 +14,7 @@ puts "hello"
 i += 1
 end```*
 
-In the code snippet above about a While loop,  `i` is set to `0`,  While evaluates if `i` is less than `5`.  `i` is in fact less than `5` which is "true", so it will run our string. Then increment the variable by 1, so that it goes from 0 to 1. 1 is less than `5` so it will jump back to the beginning and loop over until it's false, which is `5 < 5`. 5 is not less than 5 (it is equal to 5) so this is "false" and the loop will end.
+In the code snippet above about a While loop,  `i` is set to `0`. It will evaluate if `i` is less than `5`.  `i` is in fact less than `5` which is "true", so it will run our string. Then increment the variable by 1, so that it goes from 0 to 1. 1 is less than `5` so it will jump back to the beginning and loop over until it's false, which is `5 < 5`. 5 is not less than 5 (it is equal to 5) so this is "false" and the loop will end.
 
 *```i = 0
 until i >= 5
