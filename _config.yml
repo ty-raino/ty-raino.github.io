@@ -1,11 +1,11 @@
 # Site settings
 author: Ty Raino 👑
-title: Coding Journey
+title: Royal Terminal
 header-img: img/home-bg.png
 email: mstymetris@yahoo.com
 copyright_name: Ty Raino 👑
 description: > # this means to ignore newlines until "baseurl:"
-  Can't wait to see what the future holds!
+  Gaining information day by day
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: fillthecrown_
 github_username:  ty-raino
