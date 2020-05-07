@@ -17,7 +17,7 @@ I wanted to get the price and description of a guitar, but the website stored th
 I was HIGHLY upset because I wanted this project to show prices, descriptions, and more! I wanted the user to interact with it A LOT more than what it is now. I didn't want to start completely over because I came too far and there wasn't enough time. I've spent 2 weeks just hitting tons of brick walls with a project that could've took maybe 3 days.
 
 On the bright side, I've learned a lot. I've learned about parsing data, objects, class methods, user inputs, gems, and environments. I had tons of help from my cohort lead and honestly, if I didn't have that, I probably would've been stuck.
-Even though the app turned out very short and simple, I'm proud that I've managed to stick through and not give up. This was a test to see if I could do it and guess what? I did it! This is a huge milestone for me and I'm ready to start the next chapter in my coding journey. ![ ](https://imgur.com/kjsaeIa) 
+Even though the app turned out very short and simple, I'm proud that I've managed to stick through and not give up. This was a test to see if I could do it and guess what? I did it! This is a huge milestone for me and I'm ready to start the next chapter in my coding journey.
 
 
 
